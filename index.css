@@ -1,0 +1,110 @@
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    margin: 0;
+}
+
+.container{
+    width: 570px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 0;
+}
+
+h2{
+    font-size: 42px;
+    margin: 0;
+    padding: 20px 0;
+    border-top: solid 1px #c4c4c4;
+    border-bottom: solid 1px #c4c4c4;
+}
+
+h3{
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.small{
+    font-size: 16px;
+    margin-top:0;
+    color:#99d930;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+h1, h2{
+    font-weight: 300;
+}
+
+.bold{
+    font-weight: 900;
+    color:#99d930;
+}
+
+.title-bold{
+    font-size: 80px;
+}
+
+.section-bold{
+    font-size: 60px;
+}
+
+
+a{
+    color: #99d930;
+    font-weight: 900;
+}
+
+a:hover,
+a:focus{
+    color: #131313;
+}
+
+.sectionone, 
+.sectiontwo, 
+.sectionthree{
+    margin: 0;
+    padding: 100px 0;
+}
+
+.sectionone{
+    background-color: #252525;
+    color: #fff;
+    
+}
+
+
+
+.sectionthree{
+    background-color: #252525;
+    color: #fff
+    
+}
+
+.btn{
+    color: #252525;
+    background-color: #99d930;
+    padding: 15px 30px;
+    margin-top: 25px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.btn:hover,
+.btn:focus{
+    color: #fff;
+    background-color: #252525;
+}
+
+.sectionthree .btn:hover,
+.sectionthree .btn:focus{
+    background-color: #fff;
+    color: #252525
+}
